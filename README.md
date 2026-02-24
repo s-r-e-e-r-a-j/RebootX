@@ -26,7 +26,7 @@ sudo apt install build-essential -y
 ```
 **Arch/BlackArch/Manjaro:**
 ```bash
-sudo pacman -Sy base-devel --noconfirm
+sudo pacman -Syu base-devel --noconfirm
 ```
 **Fedora/RHEL/CentOS:**
 ```bash
